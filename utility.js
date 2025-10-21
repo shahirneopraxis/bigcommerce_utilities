@@ -230,7 +230,7 @@
 
     // Apply styles
     Object.assign(bar.style, {
-      position: "fixed",
+      position: "relative",
       zIndex: config.zIndex,
       width: "100%",
       height: config.barHeight,
